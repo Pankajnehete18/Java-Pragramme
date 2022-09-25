@@ -27,6 +27,7 @@ public class ArmstrongNumber {
 		else
 			System.out.println("Number is not Armstrong");
 		
+               //armstrong number verified
 		
 	}
 }
