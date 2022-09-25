@@ -26,6 +26,7 @@ public class APSeries1 {
 			term=term+d;
 		}
 		
+		//programme updated
 		
 	}
 
